@@ -7,7 +7,7 @@ using namespace std;
 int main(){
 
     int n;
-    cout<<"enter a no plz : "<<"\n";
+    cout<<"enter a no plz chiru : "<<"\n";
     cin>>n;
     int j=0;
 
